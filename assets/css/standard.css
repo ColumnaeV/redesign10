@@ -1166,7 +1166,7 @@ span.loading-tag {
         height: 50vw;
         margin: 0vw 2vw;
         float: left;
-        background-color: var(--colour-s-3);
+        /* background-color: var(--colour-s-3); */
         transition-duration: 0.3s;
         position: relative;
     }
@@ -1363,7 +1363,7 @@ span.loading-tag {
         height: 50vw;
         margin: 0vw 2vw;
         float: left;
-        box-shadow: 0 1vw 0.5vw rgba(0,0,0,0.3);
+        /* box-shadow: 0 1vw 0.5vw rgba(0,0,0,0.3); */
         transition-duration: 0.3s;
         position: relative;
     }
